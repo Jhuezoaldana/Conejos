@@ -1,0 +1,52 @@
+.primero{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   background-color: rgb(196, 169, 221);
+}
+.segundo{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(158, 235, 209);
+}
+.tercero{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(240, 235, 171);  
+}
+.caja{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.botones{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(81, 229, 240);
+}
+.explain{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(207, 177, 235);
+    font-size: 60px; 
+    text-align: center; 
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.ifyou{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(207, 177, 235);
+    font-size: 40px; 
+    text-align: center;    
+}
